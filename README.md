@@ -235,20 +235,15 @@ python-api-projects/
 │   ├── aggregator.py
 │   └── config.py
 ├── 02-weather-dashboard/
-│   ├── dashboard.py
-│   └── utils.py
+│   └── dashboard.py
 ├── 03-crypto-tracker/
-│   ├── tracker.py
-│   └── portfolio.py
+│   └── tracker.py
 ├── 04-github-analytics/
-│   ├── analytics.py
-│   └── visualizer.py
+│   └── analytics.py
 ├── 05-notification-system/
-│   ├── notifier.py
-│   └── templates.py
+│   └── notifier.py
 └── 06-multi-api-dashboard/
-    ├── dashboard.py
-    └── api_manager.py
+    └── dashboard.py
 ```
 
 ## 🔐 API Key Resources
